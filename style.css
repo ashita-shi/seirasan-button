@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(232, 245, 255);
+    -webkit-text-size-adjust: 100%;
+    font-size: 1rem;
+}
+
+h1 {
+    color :rgb(0, 8, 46);
+    padding-left : 10px;
+    border-left : 10px solid #d98540;
+    border-bottom: 2px dashed #ffb980;
+}
